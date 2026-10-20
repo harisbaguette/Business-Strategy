@@ -1,4 +1,11 @@
 .DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.tmp
+*.log
+~$*
 
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
