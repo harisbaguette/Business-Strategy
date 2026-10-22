@@ -9,3 +9,10 @@ __pycache__/
 
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
+
+# 도구가 저장소에 자동으로 만드는 설정·캐시 — 재생성 가능, 커밋하지 않음
+/.serena/
+/.playwright-mcp/
+
+# 린트 도구 캐시
+/.ruff_cache/
