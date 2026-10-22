@@ -16,3 +16,4 @@ __pycache__/
 
 # 린트 도구 캐시
 /.ruff_cache/
+/.project-map/

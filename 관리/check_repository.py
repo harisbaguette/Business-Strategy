@@ -68,7 +68,7 @@ def check(root: Path) -> tuple[list[str], list[str], int]:
             hashes.setdefault(hashlib.sha256(data).hexdigest(), []).append(path.relative_to(root).as_posix())
         if path.suffix in {'.md', '.txt'}:
             try:
-                text = data.decode('utf-8-sig')
+                text = data.decode('utf-8-sig').replace('\r\n', '\n').replace('\r', '\n')
             except UnicodeDecodeError:
                 errors.append(f'UTF-8 아님: {path.relative_to(root)}')
                 continue

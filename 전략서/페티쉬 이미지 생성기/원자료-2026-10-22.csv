@@ -1,0 +1,3 @@
+sample_id,source_url,source_date,observed_date,evidence_type,summary,limitation
+R1,https://www.reddit.com/r/patreon/comments/1opa3n8/comment/nncbc56/,,2026-10-22,구독 자기 진술 요약,AI 작품 계정 여러 곳을 팔로우하며 콘텐츠를 보기 위해 가끔 구독한다고 말함,영수증과 정확한 구매 상품 및 지출과 유지 기간 미확인
+R2,https://www.reddit.com/r/patreon/comments/1opa3n8/comment/nncek6a/,,2026-10-22,구독 자기 진술 요약,변신을 다루는 AI 영상 계정 세 곳을 구독하며 직접 재현의 어려움과 감당 가능한 가격을 언급함,영상에 관한 진술이며 이미지 구매 증거가 아님 영수증과 정확한 가격 및 유지 기간 미확인
