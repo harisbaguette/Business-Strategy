@@ -12,7 +12,7 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
-SKIP_DIRS = {'.git', 'graft', '__pycache__', 'node_modules', '.venv'}
+SKIP_DIRS = {'.git', 'graft', '__pycache__', 'node_modules', '.venv', '.serena', '.playwright-mcp', '.claude'}
 STATUSES = {'실행 전 확인', '운영 중', '중단·보류'}
 LINK = re.compile(r'\[[^\]\n]+\]\((?:<([^>\n]+)>|([^\s)]+))\)')
 PRIVATE_COLUMN = re.compile(r'작가|작성자|판매자(?:명|이름)?|채널|연락처|이메일|전화|실명|author|email|phone|seller_name|channel_name', re.I)
@@ -105,12 +105,15 @@ def check(root: Path) -> tuple[list[str], list[str], int]:
         if not card or not 1 <= len([line for line in card[1].splitlines() if line.strip()]) <= 15:
             errors.append(f'공략 카드 없음 또는 15줄 초과: {label}')
         values = {}
-        for key in ['작성일', '수정일', '상태']:
+        for key in ['작성일', '수정일', '상태', '다음 할 일']:
             match = re.search(rf'^- {key}: (.+)$', text, re.M)
             if not match:
                 errors.append(f'{key} 누락: {label}')
             else:
                 values[key] = match[1].strip()
+        folder = re.search(r'^- 연결 폴더: (.+)$', text, re.M)
+        if folder and folder[1].strip() != '없음' and not Path(folder[1].strip()).expanduser().is_dir():
+            notices.append(f'연결 폴더가 이 PC에 없음: {label}')
         if values.get('상태') not in STATUSES:
             errors.append(f'상태 값 확인 필요: {label}')
         try:
@@ -122,9 +125,9 @@ def check(root: Path) -> tuple[list[str], list[str], int]:
             errors.append(f'날짜 형식 확인 필요: {label}')
         matching_rows = [line for line in index.splitlines()
                          if path.resolve() in set(local_links(index_path, line))]
-        if matching_rows and (values.get('수정일', '') not in matching_rows[0]
-                              or values.get('상태', '') not in matching_rows[0]):
-            errors.append(f'시장 목록의 날짜·상태 불일치: {label}')
+        if matching_rows and any(values.get(key, '') not in matching_rows[0]
+                                 for key in ['수정일', '상태', '다음 할 일']):
+            errors.append(f'시장 목록의 날짜·상태·다음 할 일 불일치: {label}')
         evidence = path.parent / '근거.md'
         if not evidence.is_file() or evidence.resolve() not in set(local_links(path, text)):
             errors.append(f'근거 파일 또는 연결 누락: {label}')
