@@ -1,0 +1,181 @@
+review_no,work_id,work_format,work_sales_count,work_circle_label,tsf_core,rating,review_date,praise_codes,complaint_codes,gist_ko,source_url,observed_date
+1,RJ01000176,CG,59,서클(12개월 밖),1,5,2023-05-09,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01000176&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+2,RJ01045935,CG,106,서클(12개월 밖),1,5,2023-04-18,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01045935&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+3,RJ01160762,만화,168,서클(12개월 밖),1,5,2024-03-06,AI 티 적음·인물 안정,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01160762&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+4,RJ01162088,CG,64,서클 R,1,5,2024-03-03,,AI 티(얼굴·자세·파손),,https://www.dlsite.com/maniax/api/review?product_id=RJ01162088&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+5,RJ01183959,CG,105,서클(12개월 밖),1,5,2026-02-25,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01183959&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+6,RJ01191511,만화,950,서클(12개월 밖),1,5,2024-05-06,변신 과정·전후 차이|분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01191511&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+7,RJ01191511,만화,950,서클(12개월 밖),1,5,2024-05-06,변신 과정·전후 차이|분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01191511&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+8,RJ01191511,만화,950,서클(12개월 밖),1,5,2024-05-06,변신 과정·전후 차이,변신 장면이 짧거나 한 번에,,https://www.dlsite.com/maniax/api/review?product_id=RJ01191511&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+9,RJ01191511,만화,950,서클(12개월 밖),1,5,2024-05-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01191511&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+10,RJ01193001,CG,55,서클(12개월 밖),1,5,2025-03-30,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01193001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+11,RJ01193001,CG,55,서클(12개월 밖),1,5,2025-04-05,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01193001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+12,RJ01193001,CG,55,서클(12개월 밖),1,4,2025-04-09,AI 티 적음·인물 안정,,다른 AI 작품보다 AI 티가 덜함. 취향을 타는 속성 조합,https://www.dlsite.com/maniax/api/review?product_id=RJ01193001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+13,RJ01193001,CG,55,서클(12개월 밖),1,5,2025-09-28,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01193001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+14,RJ01205534,CG,220,서클 AR,1,4,2024-06-13,AI 티 적음·인물 안정,AI 티(얼굴·자세·파손),화풍과 자세가 다양함. 세부 파손이 조금 보임,https://www.dlsite.com/maniax/api/review?product_id=RJ01205534&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+15,RJ01212069,만화,456,서클 F,1,5,2024-06-24,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01212069&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+16,RJ01253160,만화,588,서클(12개월 밖),1,4,2024-09-04,변신 과정·전후 차이,,점점 물들어 가는 과정과 반전 결말을 칭찬,https://www.dlsite.com/maniax/api/review?product_id=RJ01253160&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+17,RJ01254049,CG,385,서클(12개월 밖),1,5,2024-09-08,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01254049&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+18,RJ01254049,CG,385,서클(12개월 밖),1,5,2024-09-08,스토리·대사가 있어 몰입|분량 많음|가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01254049&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+19,RJ01254049,CG,385,서클(12개월 밖),1,5,2024-09-11,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01254049&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+20,RJ01254049,CG,385,서클(12개월 밖),1,5,2024-09-14,스토리·대사가 있어 몰입|분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01254049&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+21,RJ01256317,CG,123,서클 BJ,1,5,2025-02-28,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01256317&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+22,RJ01256317,CG,123,서클 BJ,1,5,2025-06-06,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01256317&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+23,RJ01256317,CG,123,서클 BJ,1,5,2025-06-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01256317&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+24,RJ01259901,만화,678,서클(12개월 밖),1,5,2024-09-17,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01259901&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+25,RJ01283105,CG,225,서클(12개월 밖),1,1,2025-06-11,,글·이야기 없음(그림 나열)|변신 장면이 짧거나 한 번에|이야기가 제목·기대와 어긋남,이야기 없이 그림만 묶었고 대사는 가려져 있음. 단계적 변신이라 했지만 한 번에 바뀌어 설명과 다르다고 봄,https://www.dlsite.com/maniax/api/review?product_id=RJ01283105&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+26,RJ01292810,만화,73,서클 F,1,3,2024-11-27,,,샘플만 모은 카탈로그형 작품. 만화 표현은 탄탄해 보임,https://www.dlsite.com/maniax/api/review?product_id=RJ01292810&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+27,RJ01301588,CG,1038,서클(12개월 밖),0,5,2024-12-08,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01301588&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+28,RJ01320419,만화,382,서클(12개월 밖),1,5,2025-09-29,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01320419&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+29,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-15,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+30,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+31,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-17,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+32,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-20,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+33,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-21,스토리·대사가 있어 몰입|변신 과정·전후 차이|분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+34,RJ01321740,CG,80,서클(12개월 밖),0,5,2025-01-22,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01321740&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+35,RJ01330404,만화,273,서클 F,1,5,2025-02-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01330404&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+36,RJ01334486,CG,1453,서클 N,1,5,2025-02-08,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01334486&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+37,RJ01334486,CG,1453,서클 N,1,5,2025-07-06,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01334486&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+38,RJ01334486,CG,1453,서클 N,1,5,2025-07-10,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01334486&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+39,RJ01343420,만화,144,서클 BF,1,5,2025-02-24,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01343420&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+40,RJ01347968,CG,256,서클 G,1,3,2025-05-23,변신 과정·전후 차이,분량·본편 부족,글 설명 비중이 크고 AI 그림집치고 분량이 적음. 가격에 따라 추천 보류,https://www.dlsite.com/maniax/api/review?product_id=RJ01347968&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+41,RJ01350050,만화,589,서클(12개월 밖),1,3,2025-08-16,스토리·대사가 있어 몰입|후속작 원함,이야기가 제목·기대와 어긋남,그림과 표정은 좋으나 이야기가 제목의 주인공에서 벗어남. 구성 보강 요청,https://www.dlsite.com/maniax/api/review?product_id=RJ01350050&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+42,RJ01350728,만화,492,서클(12개월 밖),1,5,2025-10-08,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01350728&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+43,RJ01352837,CG,195,서클(12개월 밖),1,4,2025-07-22,,,변신 후 모습이 자연스러움. 한 장면만 앞뒤가 안 맞음,https://www.dlsite.com/maniax/api/review?product_id=RJ01352837&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+44,RJ01353536,만화,708,서클(12개월 밖),1,5,2025-08-03,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01353536&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+45,RJ01358043,만화,198,서클(12개월 밖),1,5,2026-05-22,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01358043&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+46,RJ01363613,만화,885,서클(12개월 밖),1,5,2025-03-29,스토리·대사가 있어 몰입|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01363613&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+47,RJ01363613,만화,885,서클(12개월 밖),1,5,2025-06-07,스토리·대사가 있어 몰입|AI 티 적음·인물 안정,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01363613&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+48,RJ01363613,만화,885,서클(12개월 밖),1,5,2025-08-05,스토리·대사가 있어 몰입|변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01363613&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+49,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+50,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+51,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-03,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+52,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-03,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+53,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-04,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+54,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+55,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-05,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+56,RJ01367342,CG,323,서클(12개월 밖),0,4,2025-04-07,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+57,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+58,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-08,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+59,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-04-09,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+60,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-06-05,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+61,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-06-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+62,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-06-08,분량 많음|가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+63,RJ01367342,CG,323,서클(12개월 밖),0,4,2025-06-25,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+64,RJ01367342,CG,323,서클(12개월 밖),0,5,2025-06-26,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01367342&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+65,RJ01375034,만화,244,서클(12개월 밖),1,5,2025-04-20,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01375034&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+66,RJ01375034,만화,244,서클(12개월 밖),1,5,2025-07-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01375034&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+67,RJ01375213,CG,313,서클(12개월 밖),0,3,2025-04-19,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01375213&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+68,RJ01375213,CG,313,서클(12개월 밖),0,5,2025-04-26,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01375213&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+69,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+70,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-16,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+71,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+72,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-17,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+73,RJ01389387,CG,82,서클(12개월 밖),0,4,2025-05-17,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+74,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-18,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+75,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-20,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+76,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-21,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+77,RJ01389387,CG,82,서클(12개월 밖),0,5,2025-05-23,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389387&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+78,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+79,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-16,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+80,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+81,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-17,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+82,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-18,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+83,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-20,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+84,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-21,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+85,RJ01389408,CG,72,서클(12개월 밖),0,5,2025-05-26,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389408&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+86,RJ01389502,만화,1484,서클(12개월 밖),1,3,2025-05-23,후속작 원함,,"시리즈 서장이라 인물 소개 위주, 본 장면은 다음 편으로 미뤄짐",https://www.dlsite.com/maniax/api/review?product_id=RJ01389502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+87,RJ01389502,만화,1484,서클(12개월 밖),1,5,2025-08-11,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+88,RJ01389502,만화,1484,서클(12개월 밖),1,5,2025-09-08,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+89,RJ01389502,만화,1484,서클(12개월 밖),1,3,2025-09-20,후속작 원함,분량·본편 부족,시리즈 도입편이라 본 장면이 적어 별 3,https://www.dlsite.com/maniax/api/review?product_id=RJ01389502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+90,RJ01389502,만화,1484,서클(12개월 밖),1,5,2025-10-01,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01389502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+91,RJ01397862,CG,96,서클 AM,1,5,2025-05-26,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01397862&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+92,RJ01397862,CG,96,서클 AM,1,5,2025-05-31,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01397862&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+93,RJ01397862,CG,96,서클 AM,1,5,2025-06-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01397862&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+94,RJ01398079,CG,212,서클(12개월 밖),1,5,2025-06-20,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01398079&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+95,RJ01399351,만화,1314,서클(12개월 밖),1,4,2025-06-20,,,설정과 결말이 재미있음,https://www.dlsite.com/maniax/api/review?product_id=RJ01399351&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+96,RJ01411483,만화,572,서클(12개월 밖),1,5,2026-03-08,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01411483&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+97,RJ01414838,만화,913,서클(12개월 밖),1,4,2025-08-20,,분량·본편 부족,전체 49쪽 중 본편 36쪽이라 분량이 모자람,https://www.dlsite.com/maniax/api/review?product_id=RJ01414838&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+98,RJ01417752,만화,456,서클(12개월 밖),1,5,2025-07-27,,분량·본편 부족,,https://www.dlsite.com/maniax/api/review?product_id=RJ01417752&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+99,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-07-11,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+100,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-07-14,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+101,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-07-16,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+102,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-07-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+103,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-07-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+104,RJ01422883,CG,196,서클(12개월 밖),1,3,2025-07-18,분량 많음,글·이야기 없음(그림 나열),글 없는 326쪽 그림집. 설정은 소개문에만 있어 상상에 맡겨야 함,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+105,RJ01422883,CG,196,서클(12개월 밖),1,4,2025-08-28,분량 많음,글·이야기 없음(그림 나열),글이 없어 설정이 약하게 느껴짐. 분량과 품질이 고른 점은 칭찬,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+106,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-09-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+107,RJ01422883,CG,196,서클(12개월 밖),1,4,2025-09-08,가격 부담 적음,,구도와 표정에 변화가 있고 가격이 싸서 사기 쉬움,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+108,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-09-12,가격 부담 적음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+109,RJ01422883,CG,196,서클(12개월 밖),1,3,2025-09-21,,,설정이 과장돼 있지만 그림은 볼만함,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+110,RJ01422883,CG,196,서클(12개월 밖),1,5,2025-09-27,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01422883&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+111,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-07-30,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+112,RJ01435075,CG,74,서클(12개월 밖),0,4,2025-07-30,,AI 티(얼굴·자세·파손),,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+113,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-07-31,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+114,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-08-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+115,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-08-02,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+116,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-08-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+117,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-08-05,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+118,RJ01435075,CG,74,서클(12개월 밖),0,5,2025-08-06,분량 많음,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01435075&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+119,RJ01437071,CG,122,서클(12개월 밖),1,5,2025-08-05,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01437071&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+120,RJ01437071,CG,122,서클(12개월 밖),1,5,2025-09-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01437071&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+121,RJ01437071,CG,122,서클(12개월 밖),1,4,2025-09-23,,글·이야기 없음(그림 나열)|이야기가 제목·기대와 어긋남,장면 사이를 잇는 이야기가 없어 결말이 갑작스러움,https://www.dlsite.com/maniax/api/review?product_id=RJ01437071&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+122,RJ01438817,만화,284,서클(12개월 밖),1,5,2025-08-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01438817&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+123,RJ01438817,만화,284,서클(12개월 밖),1,5,2025-08-09,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01438817&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+124,RJ01439274,만화,1027,서클(12개월 밖),1,4,2025-08-11,변신 과정·전후 차이,변신 장면이 짧거나 한 번에,몸이 바뀐 것을 깨닫는 과정을 여러 컷으로 그린 점을 칭찬. 일부 장면 생략은 아쉬움,https://www.dlsite.com/maniax/api/review?product_id=RJ01439274&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+125,RJ01439274,만화,1027,서클(12개월 밖),1,1,2025-11-02,,분량·본편 부족,제목에 비해 내용이 가볍고 한 종류 장면 위주. 후속에 기대,https://www.dlsite.com/maniax/api/review?product_id=RJ01439274&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+126,RJ01440502,만화,1158,서클(12개월 밖),1,5,2025-10-06,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01440502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+127,RJ01440502,만화,1158,서클(12개월 밖),1,5,2025-10-09,,분량·본편 부족,,https://www.dlsite.com/maniax/api/review?product_id=RJ01440502&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+128,RJ01453001,CG,654,서클(12개월 밖),1,5,2025-08-28,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01453001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+129,RJ01453001,CG,654,서클(12개월 밖),1,5,2025-08-30,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01453001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+130,RJ01453001,CG,654,서클(12개월 밖),1,5,2025-09-03,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01453001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+131,RJ01453001,CG,654,서클(12개월 밖),1,5,2025-09-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01453001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+132,RJ01453001,CG,654,서클(12개월 밖),1,5,2025-09-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01453001&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+133,RJ01455380,만화,67,서클(12개월 밖),0,5,2025-08-30,스토리·대사가 있어 몰입|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01455380&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+134,RJ01455614,만화,393,서클(12개월 밖),1,5,2025-08-31,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01455614&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+135,RJ01455614,만화,393,서클(12개월 밖),1,5,2025-09-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01455614&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+136,RJ01456417,만화,492,서클(12개월 밖),1,4,2025-09-04,변신 과정·전후 차이|후속작 원함,,변신 뒤 감정이 바뀌어 가는 이야기를 칭찬. 더 보고 싶다고 함,https://www.dlsite.com/maniax/api/review?product_id=RJ01456417&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+137,RJ01456417,만화,492,서클(12개월 밖),1,5,2025-09-06,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01456417&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+138,RJ01456417,만화,492,서클(12개월 밖),1,5,2026-05-13,스토리·대사가 있어 몰입|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01456417&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+139,RJ01463967,만화,588,서클(12개월 밖),1,5,2025-09-20,스토리·대사가 있어 몰입,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01463967&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+140,RJ01472796,만화,1192,서클(12개월 밖),1,5,2026-07-14,분량 많음|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01472796&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+141,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-09-26,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+142,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-09-27,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+143,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-09-27,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+144,RJ01476080,CG,58,서클(12개월 밖),1,4,2025-09-27,,AI 티(얼굴·자세·파손),빙의된 상태가 그림만으로도 전달됨,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+145,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-09-28,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+146,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-09-30,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+147,RJ01476080,CG,58,서클(12개월 밖),1,3,2025-10-01,,AI 티(얼굴·자세·파손),AI 티가 꽤 남. 상대 남성의 AI 얼굴이 몰입을 깸. 의상을 더 다양하게 해 달라는 요청,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+148,RJ01476080,CG,58,서클(12개월 밖),1,4,2025-10-04,,,설정 위에 장면 중심으로 짜여 보기 쉬움. AI 특유의 자세가 일부 보임,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+149,RJ01476080,CG,58,서클(12개월 밖),1,5,2025-10-05,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01476080&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+150,RJ01479497,CG,411,서클(12개월 밖),0,5,2025-10-04,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479497&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+151,RJ01479619,만화,752,서클(12개월 밖),1,4,2025-10-03,,,80쪽 만화. 변신 뒤 두 인물의 관계 변화가 중심,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+152,RJ01479619,만화,752,서클(12개월 밖),1,5,2025-10-03,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+153,RJ01479619,만화,752,서클(12개월 밖),1,5,2025-10-04,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+154,RJ01479619,만화,752,서클(12개월 밖),1,5,2025-10-06,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+155,RJ01479619,만화,752,서클(12개월 밖),1,5,2025-10-07,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+156,RJ01479619,만화,752,서클(12개월 밖),1,5,2025-10-11,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01479619&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+157,RJ01492643,CG,182,서클 C,1,3,2025-10-22,,인물 불일치,그림은 좋으나 머리색 등이 장면마다 달라 같은 인물로 안 보임. 변신 전 장면인데 이미 여성 체형이라 몰입이 깨짐,https://www.dlsite.com/maniax/api/review?product_id=RJ01492643&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+158,RJ01517064,만화,336,서클(12개월 밖),1,5,2026-05-22,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01517064&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+159,RJ01568590,CG,44,서클 F,1,3,2026-03-03,,글·이야기 없음(그림 나열)|변신 장면이 짧거나 한 번에,대사와 설명이 없는 CG집. 정작 변신(기생) 장면이 짧게 지나감,https://www.dlsite.com/maniax/api/review?product_id=RJ01568590&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+160,RJ01593904,만화,93,서클(12개월 밖),1,5,2026-05-02,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01593904&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+161,RJ01633190,만화,65,서클(12개월 밖),0,5,2026-07-14,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01633190&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+162,RJ01648683,만화,157,서클(12개월 밖),1,5,2026-07-20,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01648683&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+163,RJ01656425,만화,193,서클(12개월 밖),1,1,2026-09-09,,이야기가 제목·기대와 어긋남,시리즈 후반에 장르 방향이 바뀌어 기대와 어긋남,https://www.dlsite.com/maniax/api/review?product_id=RJ01656425&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+164,RJ01658055,만화,478,서클 G,1,5,2026-07-14,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01658055&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+165,RJ01662383,만화,59,서클 I,1,0,2026-07-28,후속작 원함,,상황 설정과 전개를 칭찬하고 후속작을 기대함(별점 미입력),https://www.dlsite.com/maniax/api/review?product_id=RJ01662383&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+166,RJ01662410,CG,112,서클 CR,0,5,2026-07-19,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01662410&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+167,RJ01662410,CG,112,서클 CR,0,5,2026-07-26,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01662410&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+168,RJ01662410,CG,112,서클 CR,0,5,2026-07-28,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01662410&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+169,RJ01662410,CG,112,서클 CR,0,4,2026-08-05,변신 과정·전후 차이|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01662410&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+170,RJ01662410,CG,112,서클 CR,0,5,2026-08-29,변신 과정·전후 차이|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01662410&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+171,RJ01669659,CG,9,서클 BL,1,4,2026-08-15,,,의상 콘셉트를 칭찬. TS 인물은 일부만 섞여 있음,https://www.dlsite.com/maniax/api/review?product_id=RJ01669659&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+172,RJ01677702,CG,79,서클 CR,0,5,2026-08-02,변신 과정·전후 차이|후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01677702&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+173,RJ01677702,CG,79,서클 CR,0,5,2026-09-16,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01677702&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+174,RJ01685844,만화,450,서클 G,1,5,2026-08-15,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01685844&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+175,RJ01695755,CG,59,서클 CR,0,5,2026-08-23,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01695755&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+176,RJ01705677,CG,71,서클 CR,0,5,2026-09-04,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01705677&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+177,RJ01719358,CG,61,서클 CR,0,5,2026-09-19,,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01719358&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+178,RJ01727558,CG,49,서클 CR,0,3,2026-10-09,변신 과정·전후 차이,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01727558&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+179,RJ01739367,만화,8,서클(12개월 밖),0,5,2026-10-21,후속작 원함,,,https://www.dlsite.com/maniax/api/review?product_id=RJ01739367&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
+180,RJ424736,CG,69,서클(12개월 밖),1,5,2022-10-10,,글·이야기 없음(그림 나열),,https://www.dlsite.com/maniax/api/review?product_id=RJ424736&limit=100&mix_pickup=true&page=1&order=regist_d&locale=ja_JP,2026-10-23
